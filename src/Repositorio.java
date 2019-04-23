@@ -58,7 +58,7 @@ public class Repositorio {
     public void adicionaCoima(Coima coima){
         coimas.add(coima);
     }
-
+/////
 
     public Emprestimo devolveEmprestimoDaRequisicao(Requisicao r){
 
